@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Message Book</string>
+    <string name="app_name_bn">সুচিপত্রঃ- || ম্যাসেজ বই</string>
+
+    <!--/*
+    TODO: Google TEST application information ;
+    Application ID: ca-app-pub-3940256099942544~3347511713
+
+    Application Home page Banner ID: ca-app-pub-3940256099942544/6300978111
+    Application TextShow page Banner ID: ca-app-pub-3940256099942544/6300978111
+
+    Application TextShow page interstitial Ads ID: ca-app-pub-3940256099942544/1033173712
+
+
+    TODO: Google Admob application information data ;
+    Application ID: ca-app-pub-5980068077636654~4969127168
+
+    Application Home page Banner ID: ca-app-pub-5980068077636654/3176699191
+    Application TextShow page Banner ID: ca-app-pub-5980068077636654/9457438024
+
+    Application TextShow page interstitial Ads ID: ca-app-pub-5980068077636654/7913541626
+
+    */-->
+
+    <string name="ads_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ads_banner_home_bottom">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_banner_textShow_bottom">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_banner">BANNER</string>
+    <string name="ads_image_textShow_page">ca-app-pub-3940256099942544/1033173712</string>
+    <!--    Google Ads Show end -->
+
+    <string name="open">Navigation Open</string>
+    <string name="close">Navigation Close</string>
+    <string name="contact_us">যোগাযোগ পেইজ</string>
+    <string name="about_us">আমাদের সম্পর্কে</string>
+
+    <string name="intro">আধুনিক মনকে দ্বীনের ছোঁয়া</string>
+    <string name="massage">ম্যাসেজ বই</string>
+    <string name="writer">মিজানুর রহমান আজহারী</string>
+
+    <string name="devp">HILFUL FUJUL BD</string>
+
+    <string name="shair_text_option">
+        \nThanks for share our application "Message Book Mizanur Rahman Ajhari".APP DEVELOPER HILFUL FUJUL BD.\n\n
+        Website: https://toufikhasan.com\n
+        Company Website: https://hilfulfujul.org \n\nThanks for viewing.
+    </string>
+
+
+    <string name="one">১. কুরআনের মা</string>
+    <string name="two">২. মুমিনের হাতিয়ার</string>
+    <string name="three">৩. কুরআনিক শিষ্টাচার</string>
+    <string name="four">৪. উমর দারাজ দিল</string>
+    <string name="five">৫. ডাবল স্ট্যান্ডার্ড</string>
+    <string name="six">৬. উসরি ইউসরা - কষ্টের সাথে স্বস্তি</string>
+    <string name="seven">৭. রেগে গেলেন তো - হেরে গেলেন</string>
+    <string name="eight">৮. শাশ্বত জীবন বিধান</string>
+    <string name="nine">৯. স্মার্ট প্যারেন্টিং</string>
+    <string name="ten">১০. মসজিদ - মুসলিম উম্মাহর নিউক্লিয়াস</string>
+    <string name="eleven">১১. ঐশী বরকতের চাবি</string>
+    <string name="twelve">১২. বিদায় বেলা</string>
+    <string name="alertTitle" />
+    <string name="other_application">Other Application</string>
+    <string name="JubokFreAsoIslamerPothe">হে যুবক ফিরে আসো রবের দিকে</string>
+    <string name="more_apps">More Apps</string>
+    <string name="socialAccount">Social Account</string>
+    <string name="group_about_text">এই অ্যাপ্সের যেকোন সমস্যায় আমারদের গ্রপে জয়েন করুন, এবং একটি স্কিন শর্ট পোষ্ট করুন। তাছাড়াও আপনি গ্রপে বই থেকে আপনার ভালো লাগা অংশ আমাদের সাথে শিয়ার করতে পারবেন। আর আপনি যদি আগে জয়েন করে থাকেন তাহলে “আমি জয়েন করেছি!” বাটুনে ক্লিক করুন।\nসহযোগিতার জন্য ধন্যবাদ।</string>
+</resources>

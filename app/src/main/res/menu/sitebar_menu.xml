@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navication_view">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_baseline_home_24"/>
+        <item android:id="@+id/writer"
+            android:title="Book Writer"
+            android:icon="@drawable/ic_baseline_edit_24"/>
+        <item android:id="@+id/about_us"
+            android:title="About Us"
+            android:icon="@drawable/ic_baseline_developer_mode_24"/>
+        <item android:id="@+id/privacyPolicy"
+            android:title="Privacy Policy"
+            android:icon="@drawable/privincy_policy"/>
+    </group>
+    <item android:title="@string/other_application">
+        <menu>
+            <item android:id="@+id/heJubok" android:title="@string/JubokFreAsoIslamerPothe" android:icon="@drawable/ic_android_apk"/>
+            <item android:id="@+id/moreApp" android:title="@string/more_apps" android:icon="@drawable/ic_read_more"/>
+        </menu>
+    </item>
+    <item android:title="Communication">
+        <menu>
+            <item android:id="@+id/contact_us"
+                android:title="Contact Us"
+                android:icon="@drawable/ic_baseline_sms_24"/>
+            <item android:id="@+id/website"
+                android:title="Website"
+                android:icon="@drawable/webicon"/>
+            <item android:id="@+id/share"
+                android:title="Shair"
+                android:icon="@drawable/ic_baseline_share_24"/>
+        </menu>
+    </item>
+    <item android:title="@string/socialAccount">
+        <menu>
+            <item android:id="@+id/facebook"
+                android:title="Facebook"
+                android:icon="@drawable/facebook"/>
+            <item android:id="@+id/facebook_page"
+                android:title="Facebook"
+                android:icon="@drawable/facebook"/>
+            <item android:id="@+id/youtube_toufik"
+                android:title="Youtube"
+                android:icon="@drawable/youtube"/>
+            <item android:id="@+id/youtube"
+                android:title="Youtube"
+                android:icon="@drawable/youtube"/>
+        </menu>
+    </item>
+
+</menu>

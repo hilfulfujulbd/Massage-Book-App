@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_header"
+    android:orientation="vertical"
+    tools:context="com.toufikhasan.massagebook.WellCome">
+
+    <TextView
+        android:id="@+id/ukktiName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:text="@string/intro"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/welcomeName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/massage"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="50sp"/>
+    <TextView
+        android:id="@+id/writerName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="@string/writer"
+        android:textColor="@color/yellow"
+        android:textSize="20sp"/>
+
+    <ProgressBar
+        android:id="@+id/progressId"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:progressBackgroundTint="#A61A1A"
+        android:progressTint="#02b3b9" />
+
+
+</LinearLayout>
